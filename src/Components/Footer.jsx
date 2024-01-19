@@ -116,6 +116,8 @@ const Footer = (props) => {
       <p className="small" style={{ marginTop: 0, color: "white" }}>
         Created by {name}
       </p>
+
+      <p style={{color: "white" }}>Psst... My official website is at <a href="https://www.asterki.com">www.asterki.com</a></p>
     </div>
   );
 };
